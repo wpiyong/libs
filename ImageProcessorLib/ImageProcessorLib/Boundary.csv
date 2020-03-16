@@ -1,0 +1,7 @@
+Hue_Min,Hue_Max,Chroma_Min,Chroma_Max,Lightness_Min,Lightness_Max,Grade,Refer,Version,Type,H_Description
+17,22,15,40,0.65,0.9,Pad,TRUE,1,Round,Purplish
+22,55,15,40,0.65,0.9,Pad,TRUE,1,Round,
+55,60,15,40,0.65,0.9,Pad,TRUE,1,Round,Orangish
+17,22,15,40,0.65,0.9,Pad,TRUE,1,Fancy,Purplish
+22,55,15,40,0.65,0.9,Pad,TRUE,1,Fancy,
+55,60,15,40,0.65,0.9,Pad,TRUE,1,Fancy,Orangish

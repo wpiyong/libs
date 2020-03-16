@@ -1,0 +1,13 @@
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\x64\Debug\ImageProcessorLib.csproj.CoreCompileInputs.cache
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\x64\Debug\ImageProcessorLib.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\x64\Debug\ImageProcessorLib.pdb
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\x64\Debug\DynamicDataDisplay.Markers2.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\x64\Debug\NLog.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\x64\Debug\OpenCvSharp.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\x64\Debug\PeakFinder.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\x64\Debug\NLog.xml
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\x64\Debug\ImageProcessorLib.csproj.CopyComplete
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\x64\Debug\ImageProcessorLib.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\x64\Debug\ImageProcessorLib.pdb
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\x64\Debug\ImageProcessorLib.csprojAssemblyReference.cache

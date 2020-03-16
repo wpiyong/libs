@@ -1,0 +1,6 @@
+C:\work\Libs\ViewModelLib\bin\x64\Release\ViewModelLib.dll
+C:\work\Libs\ViewModelLib\bin\x64\Release\ViewModelLib.pdb
+C:\work\Libs\ViewModelLib\obj\x64\Release\ViewModelLib.csprojAssemblyReference.cache
+C:\work\Libs\ViewModelLib\obj\x64\Release\ViewModelLib.csproj.CoreCompileInputs.cache
+C:\work\Libs\ViewModelLib\obj\x64\Release\ViewModelLib.dll
+C:\work\Libs\ViewModelLib\obj\x64\Release\ViewModelLib.pdb

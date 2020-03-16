@@ -1,0 +1,6 @@
+C:\work\Libs\SettingsLib\bin\Debug\SettingsLib.dll
+C:\work\Libs\SettingsLib\bin\Debug\SettingsLib.pdb
+C:\work\Libs\SettingsLib\obj\Debug\SettingsLib.csprojAssemblyReference.cache
+C:\work\Libs\SettingsLib\obj\Debug\SettingsLib.csproj.CoreCompileInputs.cache
+C:\work\Libs\SettingsLib\obj\Debug\SettingsLib.dll
+C:\work\Libs\SettingsLib\obj\Debug\SettingsLib.pdb

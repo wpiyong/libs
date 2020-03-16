@@ -1,0 +1,13 @@
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\Debug\ImageProcessorLib.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\Debug\ImageProcessorLib.pdb
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\Debug\DynamicDataDisplay.Markers2.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\Debug\NLog.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\Debug\OpenCvSharp.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\Debug\OpenCvSharp.Extensions.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\Debug\PeakFinder.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\bin\Debug\NLog.xml
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\Debug\ImageProcessorLib.csprojAssemblyReference.cache
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\Debug\ImageProcessorLib.csproj.CoreCompileInputs.cache
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\Debug\ImageProcessorLib.csproj.CopyComplete
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\Debug\ImageProcessorLib.dll
+C:\work\Libs\ImageProcessorLib\ImageProcessorLib\obj\Debug\ImageProcessorLib.pdb

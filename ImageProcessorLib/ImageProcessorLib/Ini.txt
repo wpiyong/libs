@@ -1,0 +1,5 @@
+﻿[MASK PARAMETER] mask_type 1
+[RBC PARAMETER] w_RBC asp_min asp_max, 1.10, 0.58, 0.76
+[FANCY PARAMETER] w_FancyL w_FancyH asp_min_FancyL asp_min_FancyH as_min_FancyHH, 1.35, 1.70, 0.44, 0.34, 0.24
+[DEVICE] name, CV001
+[FL] dark, 5.0
